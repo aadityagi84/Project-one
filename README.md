@@ -7,7 +7,7 @@ Responsive Design:</h1>
 Modern UI/UX: Incorporates a sleek and intuitive user interface, with attention to detail and aesthetics.
 <!-- Functional Clone: Replicates the core features and functionalities of the original website, including [mention key features like navigation, animations, forms, etc.]. --><p>Technology Stack: Built using [list the technologies used, e.g., HTML, CSS, JavaScript, swiper as slider and many more,etc....]. we will do tinny update in my code
 </p>
-<p>here be a link to <a href="https://aadityagi84.github.io/Project-one/" >Watch Out</a></p>..
+<p>here be a link to <a href="https://aadityagi84.github.io/Project-one/" >Watch Out</a></p>....
 
 
 
